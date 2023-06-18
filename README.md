@@ -73,7 +73,7 @@ apt-get update
 apt-get upgrade
 ```
 ```bash
-git clone 
+git clone https://github.com/hsbeast/Not_a_Basic_Telegram_bot.git 
 ```
 ```bash
 cd /path/to/tg_bot
