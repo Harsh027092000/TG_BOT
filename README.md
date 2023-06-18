@@ -27,7 +27,7 @@ This is a sample/test project with every new update bot becomes more advance.
 **commands for bot**
 |Features            | commands                                                               |
 | ----------------- | ------------------------------------------------------------------ |
-| news ||news, show news
+| news | news, show news |
 | movies suggestion |  movie, suggest movie|
 | weather |weather {location}|
 | Snake,water,gun | game {snake/water/gun}|
