@@ -57,7 +57,7 @@ nano /path/to/tg_bot/constant.py
 
 |Features            | Url                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| news ||https://newsapi.org
+| news |https://newsapi.org|
 | weather |https://rapidapi.com/weatherbit/api/weather/|
 | movies suggestion | https://rapidapi.com/jakash1997/api/advanced-movie-search/ |
 | Telegram bot API |https://t.me/BotFather|
